@@ -13,4 +13,9 @@ public class Main {
 
     }
 
+    private void university()  {
+        String nameOfUniversity = "Christian-Albrecht-Universität zu Kiel";
+        String tagOfUniversity  = "CAU";
+    }
+
 }
